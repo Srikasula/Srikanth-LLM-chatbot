@@ -36,7 +36,7 @@ This project demonstrates the development and deployment of a ** LLM (Large Lang
 
 ---
 
-##  Skills Demonstrated
+##  Skills Gained
 
 - Development of **LLM-powered** conversational AI applications.
 - Building and deploying **AI web applications**.
