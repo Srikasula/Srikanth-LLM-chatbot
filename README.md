@@ -60,3 +60,5 @@ Experience the chatbot live here:
 ├── app.py               # Main application script
 ├── requirements.txt      # Required Python packages
 ├── README.md             # Project documentation
+
+## 📸 Project Screenshots
